@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/rgurve">Contact me</a>
 # Statistics #
 
 ![rgurve's github stats](https://github-readme-stats.vercel.app/api?username=rgurve&hide=["issues"]&show_icons=true)
