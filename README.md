@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 # Statistics #
 
 ![rgurve's github stats](https://github-readme-stats.vercel.app/api?username=rgurve&hide=["issues"]&show_icons=true)
+<img align="right" src="https://raw.githubusercontent.com/SujanSharma07/SujanSharma07/master/Assets/Developer.gif"/>
